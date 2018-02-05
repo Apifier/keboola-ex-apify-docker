@@ -1,6 +1,6 @@
 # VERSION 1.0.0
 FROM keboola/base-php
-MAINTAINER Apifier <info@apifier.com>
+MAINTAINER Apify <info@apify.com>
 
 WORKDIR /home
 
